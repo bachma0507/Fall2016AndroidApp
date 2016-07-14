@@ -112,7 +112,7 @@ public class ImportScheduleFragment extends Fragment {
         String memberID = memberid.getText().toString();
 
 
-        private final String url = "https://webservice.bicsi.org/json/reply/MobFunctions?sess=CN-CANADA-ON-0516&custcd=" + memberID;
+        private final String url = "https://webservice.bicsi.org/json/reply/MobFunctions?sess=CN-FALL-TX-0916&custcd=" + memberID;
 
 
 

@@ -79,18 +79,18 @@ public class HomeFragment extends Fragment {
 		ivPresent.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/directory/uplink/default.aspx?id=7964");
+				openInternalWebview("https://www.speedyreference.com/presentationsredirect.html");
 			}
 		});
 		ivSurvey.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
-				openInternalWebview("http://www.bicsi.org/directory/uplink/default.aspx?id=7965");
+				openInternalWebview("https://www.speedyreference.com/surveysredirect.html");
 			}
 		});
 		ivCec.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8171");
+				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8330");
 			}
 		});
 		ivExhall.setOnClickListener(new View.OnClickListener() {
@@ -113,7 +113,7 @@ public class HomeFragment extends Fragment {
 		ivExfloor.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://speedyreference.com/floormap/boothinfocan16.htm");
+				openInternalWebview("http://speedyreference.com/floormap/boothinfofall16.htm");
 				//openInternalWebview("http://speedyreference.com/bicsiappcms/floormaps.html");
 			}
 		});
@@ -125,7 +125,7 @@ public class HomeFragment extends Fragment {
 		ivHtinfo.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8185");
+				openInternalWebview("https://www.speedyreference.com/hotelredirect.html");
 			}
 		});
 		ivCommeet.setOnClickListener(new View.OnClickListener() {
@@ -137,7 +137,7 @@ public class HomeFragment extends Fragment {
 		ivTrainexam.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8173");
+				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8349");
 				
 			}
 		});
@@ -147,7 +147,7 @@ public class HomeFragment extends Fragment {
 				Intent i = new Intent(Intent.ACTION_SEND);
 				i.setType("message/rfc822");
 				i.putExtra(Intent.EXTRA_EMAIL  , new String[]{"support@bicsi.org"});
-				i.putExtra(Intent.EXTRA_SUBJECT, "Comments for Canada 2016 Conference");
+				i.putExtra(Intent.EXTRA_SUBJECT, "Comments for Fall 2016 Conference");
 				i.putExtra(Intent.EXTRA_TEXT   , "{Device - Android} Your Comments:");
 				try {
 				    startActivity(Intent.createChooser(i, "Send mail..."));

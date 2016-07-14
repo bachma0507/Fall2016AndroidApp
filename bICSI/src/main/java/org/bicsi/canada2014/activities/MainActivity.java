@@ -193,7 +193,7 @@ public class MainActivity extends Activity implements
         ParseInstallation.getCurrentInstallation().saveInBackground();
         ParseAnalytics.trackAppOpened(getIntent());
 
-        Crittercism.initialize(getApplicationContext(), "1266aa548c544a5f9a0beceb5b1d34a400555300");
+        Crittercism.initialize(getApplicationContext(), "82a74e60672a4da7bc32c77b5653e64100555300");
 
         setupTabs();
         resetTabs();
@@ -604,7 +604,7 @@ public class MainActivity extends Activity implements
     private class GetJSONData  extends AsyncTask<Void, Void, Void> {
         //call webservice
         private ProgressDialog pDialog;
-        private static final String url = "https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-ON-0516";
+        private static final String url = "https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-FALL-TX-0916";
         //private final Uri uri = Uri.parse("https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-FALL-NV-0915");
         private String myLongStr;
         private String myLongStrEnd;
@@ -879,7 +879,7 @@ public class MainActivity extends Activity implements
 
     public void GetURL(){
         // WebServer Request URL
-        String serverURL = "http://speedyreference.com/ehscheduleC16.php";
+        String serverURL = "http://speedyreference.com/ehscheduleF16.php";
 
         // Use AsyncTask execute Method To Prevent ANR Problem
         new LongOperation().execute(serverURL);
@@ -887,7 +887,7 @@ public class MainActivity extends Activity implements
 
     public void GetURLCSched(){
         // WebServer Request URL
-        String serverURL = "http://speedyreference.com/cscheduleC16.php";
+        String serverURL = "http://speedyreference.com/cscheduleF16.php";
 
         // Use AsyncTask execute Method To Prevent ANR Problem
         new LongOperationCSched().execute(serverURL);
