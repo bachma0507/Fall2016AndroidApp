@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.bicsi.canada2016.test">
+    package="org.bicsi.fall2016.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="17" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="org.bicsi.canada2016"
+                     android:targetPackage="org.bicsi.fall2016"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for org.bicsi.canada2016"/>
+                     android:label="Tests for org.bicsi.fall2016"/>
 </manifest>

@@ -76,12 +76,12 @@
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-xhdpi/email_your_comments.png"
     },
     {
-        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png",
-        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png",
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png",

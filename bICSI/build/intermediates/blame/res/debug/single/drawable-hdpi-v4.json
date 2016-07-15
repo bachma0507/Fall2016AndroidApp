@@ -116,12 +116,12 @@
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/sponsorsnew.png"
     },
     {
-        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_dot.png",
-        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/notification_dot.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_logo.png",
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-hdpi-v4/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_dot.png",
+        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/notification_dot.png"
     },
     {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/speakers.png",
@@ -172,12 +172,12 @@
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/cec_information.png"
     },
     {
-        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/conference_schedule.png",
-        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/conference_schedule.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/exhibit_hall_schedule.png",
         "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/exhibit_hall_schedule.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/conference_schedule.png",
+        "source": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/conference_schedule.png"
     },
     {
         "merged": "/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/hotel_information.png",
