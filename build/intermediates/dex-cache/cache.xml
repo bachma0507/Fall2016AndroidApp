@@ -3,80 +3,73 @@
 
     <item
         jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="21.1.2"
         sha1="e29767f92c3dc2d5f7871ff759c5ad8161a04d06">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/8/bolts_a3a032a4a350e773bcb5da850adbffbb0df16eeb/classes.dex" />
-    </item>
-    <item
-        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="5dbbe7707c50dccb559e2c76c06b3c42a3359f02">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_785d438bffedb5759f158b041d8c17484ef934b3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/httpclient-4.0.1.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.1_c86eaeadf55e82aa53d9de9c72c253751bcaac09/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/android_dev_environment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_9e41b17598de597d029d3b700101db64e84a31c3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/twitter4j-core-3.0.5.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="5999e1915b61b30c9fc40d5d1971906bb68aca6c">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/twitter4j-core-3.0.5_0705d83a7b7c2713e2d6d95958033072afe102db/classes.dex" />
-    </item>
-    <item
-        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="7e2694395521b2ae90e9003a3b3be8f802a87476">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a4529d49c97ddd53d5d165b99b9fc4cf0a529998/classes.dex" />
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/bolts_a3a032a4a350e773bcb5da850adbffbb0df16eeb.jar" />
     </item>
     <item
         jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/stackmob-android-sdk-1.3.5.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="21.1.2"
         sha1="8fafd0b28982ea39eede11804e3cb39f1ffbce39">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/stackmob-android-sdk-1.3.5_ec561c324ed8ac76aafc7e56f508fd1435255f32/classes.dex" />
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/stackmob-android-sdk-1.3.5_ec561c324ed8ac76aafc7e56f508fd1435255f32.jar" />
+    </item>
+    <item
+        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/httpclient-4.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/httpclient-4.0.1_c86eaeadf55e82aa53d9de9c72c253751bcaac09.jar" />
+    </item>
+    <item
+        jar="/Applications/android_dev_environment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/support-v4-19.1.0_9e41b17598de597d029d3b700101db64e84a31c3.jar" />
     </item>
     <item
         jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/libGoogleAnalyticsServices.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="21.1.2"
         sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_b6040c8402906688c6cec64dc0c4b2c5d2ed6691/classes.dex" />
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices_b6040c8402906688c6cec64dc0c4b2c5d2ed6691.jar" />
     </item>
     <item
-        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/crittercism_v4_3_0_sdkonly.jar"
-        jumboMode="true"
+        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
         revision="21.1.2"
-        sha1="268b37188006a9f790f5b27d6795e93b7a873e6b">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/crittercism_v4_3_0_sdkonly_11484bbbf09b02eb154572e3cc15254bc34a4b73/classes.dex" />
+        sha1="714c0fe107e6ada7203c0b8cde3c78c254a79fce">
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/BICSI-facebookSDK-unspecified_e3ffaa2f5d8ca8ff096086513dbab364d7965b82.jar" />
     </item>
     <item
         jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/Parse-1.3.8.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="21.1.2"
         sha1="252966134eb47bcd33407adc5c3d0b20a21128a9">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.3.8_1adb14c0c6c3514f40fbd852ae54468c36c6f115/classes.dex" />
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/Parse-1.3.8_1adb14c0c6c3514f40fbd852ae54468c36c6f115.jar" />
     </item>
     <item
         jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/PushIOManager.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="21.1.2"
         sha1="78fa40b8cbb1d85e5308de6dc32558c32c24f84f">
-        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/PushIOManager_47900647d6f27d22c86c8f773f35d07067bf8ad1/classes.dex" />
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/PushIOManager_47900647d6f27d22c86c8f773f35d07067bf8ad1.jar" />
+    </item>
+    <item
+        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/twitter4j-core-3.0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5999e1915b61b30c9fc40d5d1971906bb68aca6c">
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/twitter4j-core-3.0.5_0705d83a7b7c2713e2d6d95958033072afe102db.jar" />
+    </item>
+    <item
+        jar="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/libs/crittercism_v4_3_0_sdkonly.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="268b37188006a9f790f5b27d6795e93b7a873e6b">
+        <dex dex="/Users/barry/Documents/Fall2016AndroidAppNew/BICSI/bICSI/build/intermediates/pre-dexed/debug/crittercism_v4_3_0_sdkonly_11484bbbf09b02eb154572e3cc15254bc34a4b73.jar" />
     </item>
 
 </items>

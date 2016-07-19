@@ -142,7 +142,61 @@ public class SQLiteDBAllData {
 				initialValues.put(KEY_LOCATIONNAME, LOCATIONNAME);
 				initialValues.put(KEY_fucntioindate, fucntioindate);
 				initialValues.put(KEY_functionStartTime, functionStartTime);
+			if (functionStartTimeStr.equals("08:01 AM")){
+				String functionStartTimeStrNew = "08:00 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("08:02 AM")){
+				String functionStartTimeStrNew = "08:00 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("08:59 AM")){
+				String functionStartTimeStrNew = "09:00 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("02:59 PM")){
+				String functionStartTimeStrNew = "03:00 PM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("07:29 AM")){
+				String functionStartTimeStrNew = "07:30 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("07:59 AM")){
+				String functionStartTimeStrNew = "08:00 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("09:01 AM")){
+				String functionStartTimeStrNew = "09:00 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("01:31 PM")){
+				String functionStartTimeStrNew = "01:30 PM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("02:01 PM")){
+				String functionStartTimeStrNew = "02:00 PM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else if(functionStartTimeStr.equals("08:31 AM")){
+				String functionStartTimeStrNew = "08:30 AM";
+				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStrNew);
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTRNEW: " + functionStartTimeStrNew);
+			}
+			else{
 				initialValues.put(KEY_functionStartTimeStr, functionStartTimeStr);
+			}
+				System.out.println("***********Value for FUNCTIONSTARTTIMESTR: " + functionStartTimeStr);
+
 				initialValues.put(KEY_functionEndTime, functionEndTime);
 				initialValues.put(KEY_functionEndTimeStr, functionEndTimeStr);
 				initialValues.put(KEY_trainer1firstname, trainer1firstname);

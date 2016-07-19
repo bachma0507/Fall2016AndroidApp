@@ -293,7 +293,16 @@ public class ConfSchedDetailFragment extends Fragment implements AdapterView.OnI
 		bundle.putString("_id", newFunctioncd);
 		bundle.putString("functiontitle", functionTitle);
 		bundle.putString("fucntioindate", functionDate);
+
+			//if (functionStart.equals("08:01 AM")){
+			//	String functionStartNew = "08:00 AM";
+			//	bundle.putString("functionStartTimeStr", functionStartNew);
+			//	System.out.println("*********Value of functionStartNew is: " + functionStartNew);
+			//}
+			//else{
 		bundle.putString("functionStartTimeStr", functionStart);
+				//System.out.println("*********Value of functionStart is: " + functionStart);}
+
 		bundle.putString("functionEndTimeStr", functionEnd);
 		bundle.putString("functiondescription", functionDescription);
 		bundle.putString("LOCATIONNAME", functionLocation);
